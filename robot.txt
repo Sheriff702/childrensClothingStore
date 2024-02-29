@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://zippy-parfait-feebde.netlify.app/
+
+# Sitemaps
+Sitemap: https://zippy-parfait-feebde.netlify.app/sitemap.xml
